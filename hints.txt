@@ -1,0 +1,12 @@
+git syntax
+
+create branch - git switch -c
+switching to a branch - git switch
+switch to main - git switch main
+
+giflow process
+- push
+- pull request
+- merge (connecting back to main)
+
+
